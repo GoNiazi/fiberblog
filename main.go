@@ -6,5 +6,5 @@ import (
 
 func main() {
 
-	fmt.Println("Hello this is my first go  project")
+	fmt.Println("Hello this is my first go")
 }
